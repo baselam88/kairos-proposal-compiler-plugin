@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Turns structured inputs (scope, price, terms) into a clean, branded proposal document in minutes.",
+  "keywords": [
+    "compiler",
+    "kairos",
+    "proposal",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-proposal-compiler",
+  "repository": "https://github.com/baselam88/kairos-proposal-compiler-plugin",
+  "version": "0.1.0"
+}
